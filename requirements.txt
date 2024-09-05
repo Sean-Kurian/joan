@@ -1,0 +1,8 @@
+faiss_cpu==1.8.0.post1
+Flask==3.0.3
+numpy==2.1.1
+pandas==2.2.2
+sentence_transformers==3.0.1
+torch==2.4.1
+tqdm==4.66.5
+transformers==4.44.2
