@@ -1,7 +1,7 @@
 
 # JOAN - Journal Optimized AI Navigator
 
-JOAN (Journal Optimized AI Navigator) is a sample application that uses AI-optimized embeddings to help you find the most relevant medical research documents. The model is trained on medical paper titles and abstracts from [this dataset on Kaggle](https://www.kaggle.com/datasets/wolfmedal/medical-paper-title-and-abstract-dataset?resource=download&select=train.csv). By default, JOAN returns the top 5 most relevant documents based on a given query.
+JOAN (Journal Optimized AI Navigator) is a sample RAG application that uses AI-optimized embeddings to help you find the most relevant medical research documents. The model is trained on medical paper titles and abstracts from [this dataset on Kaggle](https://www.kaggle.com/datasets/wolfmedal/medical-paper-title-and-abstract-dataset?resource=download&select=train.csv). By default, JOAN returns the top 5 most relevant documents based on a given query.
 
 ## Features
 - Uses FAISS for fast nearest-neighbor search.
